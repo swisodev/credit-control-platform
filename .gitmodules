@@ -1,0 +1,6 @@
+[submodule "credit_control_backend"]
+	path = credit_control_backend
+	url = https://github.com/swisodev/credit_control_backend
+[submodule "credit_control_frontend"]
+	path = credit_control_frontend
+	url = https://github.com/swisodev/credit_control_frontend
